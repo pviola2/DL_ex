@@ -1,0 +1,1 @@
+Collection of deep learning exercises
